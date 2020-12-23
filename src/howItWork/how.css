@@ -1,0 +1,24 @@
+:root {
+  --pink: #ff8282;
+  --blue: #002845;
+}
+.main-div {
+  background-color: #e9ecef;
+  margin-top: 25px;
+}
+.heading-works {
+  color: var(--blue);
+  margin-left: 42%;
+}
+.brick-properties-para {
+  color: var(--pink);
+  margin-left: 40%;
+  font-size: 14px;
+}
+.box {
+  margin-top: 10px;
+  width: 96px;
+  height: 6px;
+  background-color: var(--pink);
+  margin-left: 47%;
+}

@@ -1,0 +1,18 @@
+.navbar {
+  height: 89px;
+  width: 100vw;
+}
+.nav-item {
+  padding: 14px;
+}
+.navbar-collapse {
+  margin-bottom: 28px;
+}
+.btn1 {
+  border-radius: 30px;
+}
+.navbar-brand {
+  color: #ff8282 !important;
+  margin-bottom: 28px;
+  padding: 0 4px 0 5px;
+}

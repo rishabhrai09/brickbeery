@@ -1,0 +1,30 @@
+:root {
+  --pink: #ff8282;
+  --blue: #002845;
+}
+.heading1 {
+  font-size: 47px;
+  font-weight: bold;
+  color: var(--blue);
+}
+.heading-div {
+  margin-top: 37px;
+}
+.heading2 {
+  margin-top: 25px;
+  color: var(--blue);
+}
+.heading3 {
+  margin-top: 25px;
+  color: var(--blue);
+}
+.home-btn {
+  margin: 10px 0px 0px 45px;
+}
+.properties-btn {
+  color: aliceblue;
+  background-color: var(--pink);
+  box-shadow: -2px 6px 5px 5px #ccc;
+  padding: 10px 48px 15px 39px;
+  border-radius: 10px;
+}
