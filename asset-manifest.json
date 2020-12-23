@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/brickbeery-project/static/css/main.7d0c5bc8.chunk.css",
+    "main.js": "/brickbeery-project/static/js/main.5526b660.chunk.js",
+    "main.js.map": "/brickbeery-project/static/js/main.5526b660.chunk.js.map",
+    "runtime-main.js": "/brickbeery-project/static/js/runtime-main.73bb2ba3.js",
+    "runtime-main.js.map": "/brickbeery-project/static/js/runtime-main.73bb2ba3.js.map",
+    "static/css/2.95f25948.chunk.css": "/brickbeery-project/static/css/2.95f25948.chunk.css",
+    "static/js/2.4de03e7d.chunk.js": "/brickbeery-project/static/js/2.4de03e7d.chunk.js",
+    "static/js/2.4de03e7d.chunk.js.map": "/brickbeery-project/static/js/2.4de03e7d.chunk.js.map",
+    "static/js/3.1c72e34c.chunk.js": "/brickbeery-project/static/js/3.1c72e34c.chunk.js",
+    "static/js/3.1c72e34c.chunk.js.map": "/brickbeery-project/static/js/3.1c72e34c.chunk.js.map",
+    "index.html": "/brickbeery-project/index.html",
+    "static/css/2.95f25948.chunk.css.map": "/brickbeery-project/static/css/2.95f25948.chunk.css.map",
+    "static/css/main.7d0c5bc8.chunk.css.map": "/brickbeery-project/static/css/main.7d0c5bc8.chunk.css.map",
+    "static/js/2.4de03e7d.chunk.js.LICENSE.txt": "/brickbeery-project/static/js/2.4de03e7d.chunk.js.LICENSE.txt",
+    "static/media/banner.75393e82.svg": "/brickbeery-project/static/media/banner.75393e82.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73bb2ba3.js",
+    "static/css/2.95f25948.chunk.css",
+    "static/js/2.4de03e7d.chunk.js",
+    "static/css/main.7d0c5bc8.chunk.css",
+    "static/js/main.5526b660.chunk.js"
+  ]
+}
